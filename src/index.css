@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@400;600;700&display=swap');
+
+*  {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    /*background: url('./Components/Assets/OIP\ \(2\).jpeg') no-repeat;
+    background: url('./Components/Assets/5cc655639e901c7865594850550dae49.jpg') no-repeat;
+    /*background: url('./Components/Assets/66d5ccd7df28f961b6320c71fd1d069e.jpg') no-repeat;
+    /*background: url('./Components/Assets/191136.jpg') no-repeat;
+    background: url('./Components/Assets/depositphotos_19954649-stock-illustration-night-scene-of-city.jpg') no-repeat;
+    background: url('./Components/Assets/OIP (3).jpeg') no-repeat;
+    background: url('./Components/Assets/pngtree-beautiful-background-of-high-rise-buildings-picture-image_2148726.jpg') no-repeat;*/
+    background: url('./Components/Assets/backgrounds-high-resolution-1280x1024-wallpaper-hd-trees.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
